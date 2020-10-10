@@ -2,7 +2,7 @@ local HttpService = game:GetService('HttpService')
 local Supported = false
 local Script = nil
 
-local GameList = game:HttpGet('hhttps://raw.githubusercontent.com/alfiebgtbhgh/BlazeHub/main/GameList.json')
+local GameList = game:HttpGet('https://raw.githubusercontent.com/alfiebgtbhgh/BlazeHub/main/GameList.json')
 
 function GetGame()
     local GameTable = HttpService:JSONDecode(GameList)
