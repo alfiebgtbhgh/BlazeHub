@@ -1,1 +1,230 @@
-return(function(l,...)local b="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local s=l[(697276335)];local y=l[(970447992)];local f=l[(488002140)];local m=l['GT5T1Wm'];local J=l[(411639390)];local G=l[(732200673)];local d=l[(518060172)];local k=l[((#{49;[952]=588;980;375;(function(...)return 51,517,154;end)()}+223561066))];local x=l[.9338258844492147];local u=l[(810256516)];local P=l[.592093224447264];local v=l[(855191792)];local T=l[(971547033)];local V=l[((#{454;[29]=126;461;660;(function(...)return;end)()}+736066044))];local o=l[(372387638)];local S=l['dvGTEOcd'];local c=l[.6743165090094863];local R=l[(731614853)];local U=l[((#{111;326;[620]=725;[971]=753;905;}+333267144))];local t=l[(471740583)];local Q=l[((#{702;708;[500]=915;645;813;(function(...)return;end)()}+652616061))];local Z=l[(199828862)];local A=l[(134188061)];local N=l[.7145074818816537];local r=l.s0TXh5yE3f;local Y=l[((#{1;(function(...)return...;end)()}+306440478))];local h=l[(148817983)];local w=((getfenv)or(function(...)return(_ENV);end));local n,D,e=({}),(""),(w(o));local a=((e[""..l[t].."\105"..l[d].."\51\50"])or(e[""..l[t].."\105"..l[d]])or({}));local n=(((a)and(a[""..l[t]..l[.22916842076423038]..l[h]..l[x]]))or(function(l,e)local n,o=o,f;while((l>f)and(e>f))do local a,t=l%c,e%c;if a~=t then o=o+n;end;l,e,n=(l-a)/c,(e-t)/c,n*c;end;if l<e then l=e;end;while l>f do local e=l%c;if e>f then o=o+n;end;l,n=(l-e)/c,n*c;end;return(o);end));local i=(c^A);local B=(i-o);local O,F,C;local i=(D["\115"..l[r].."\98"]);local E=(D["\98\121"..l[d].."\101"]);local I=(D[""..l.ymscPa..l[T]..l["makGObOEYd"]..l[x]]);local D=(D[""..l[k]..l[.5407482113413271]..l[r].."\98"]);local D=(e["\114"..l["makGObOEYd"]..l[.8493304321772095].."\115\101\116"]);local D=(e["\116"..l[h].."\110"..l[r].."\109"..l[t].."\101"..l[x]]);local M=(e["\115"..l[u]..l[d].."\109\101"..l[d]..l.makGObOEYd.."\116\97"..l[t]..l[s].."\101"]);local p=(e[""..l[Y].."\97"..l[d].."\104"][""..l['R9tJIuIB'].."\108"..l[h]..l[h]..l[x]]);local r=((e[""..l[r].."\110"..l[m].."\97\99"..l['BMOVg9i']])or(e[""..l[d]..l['makGObOEYd']..l[t]..l[s].."\101"][""..l[r].."\110\112\97\99"..l["BMOVg9i"]]));local k=(e[""..l[.5407482113413271].."\101"..l[s]..l[u].."\99"..l[d]]);local g=(e["\112\97\105"..l[x]..l[.5407482113413271]]);local Y=((e["\109"..l.makGObOEYd.."\116\104"]["\108\100"..l[u]..l[.22916842076423038]..l[m]])or(function(l,e,...)return((l*c)^e);end));local m=(a["\98\111"..l[x]])or(function(l,e,...)return(B-C(B-l,B-e));end);local B=(a[""..l[t].."\110"..l[h]..l[d]])or(function(l,...)return(B-l);end);F=((a["\114\115\104"..l[.6114665994474043]..l.R9tJIuIB.."\116"])or(function(e,l,...)if(l<f)then return(O(e,-(l)));end;return(p(e%c^A/c^l));end));C=(a["\98"..l['makGObOEYd'].."\110"..l[.6253247515416354]])or(function(l,e,...)return(((l+e)-n(l,e))/c);end);O=((a[""..l[s].."\115"..l[T].."\105"..l.R9tJIuIB.."\116"])or(function(e,l,...)if(l<f)then return(F(e,-(l)));end;return((e*c^l)%c^A);end));if((not(e[""..l[t].."\105\116\51\50"]))and(not(e["\98\105\116"])))then a[""..l[x]..l[.5407482113413271]..l[T]..l[.6114665994474043].."\102\116"]=F;a["\98"..l.makGObOEYd..l[U].."\100"]=C;a["\98\120\111"..l[x]]=n;a["\108"..l[.5407482113413271].."\104"..l[.6114665994474043].."\102\116"]=O;a[""..l[t].."\111"..l[x]]=m;a[""..l[t].."\110"..l[h].."\116"]=B;end;local C=(((e[""..l[d].."\97"..l[t].."\108"..l[u]]["\99\114\101\97\116\101"]))or((function(l,...)return({r({},f,l);});end)));local c=(e["\116"..l.makGObOEYd.."\98"..l[s].."\101"][""..l[.6114665994474043].."\110"..l[.5407482113413271]..l[u]..l[x].."\116"]);local s=(e["\116\97\98"..l[s].."\101"][""..l.ymscPa.."\111\110"..l.ymscPa..l["makGObOEYd"].."\116"]);local c=(e["\116\97"..l[t].."\108"..l[u]][""..l[x].."\101\109\111"..l[Z].."\101"]);e["\98\105\116"..l[N].."\50"]=a;local e=(v);local c=(#b+y);local x,h=({}),({});for l=f,c-o do local e=I(l);x[l]=e;h[l]=e;h[e]=l;end;local s,c=(function(n)local a,t,l=E(n,o,J);if((a+t+l)~=Q)then e=e+P;c=c+R;end;n=i(n,S);local e,a,t=(""),(""),({});local l=o;local function d()local e=D(i(n,l,l),G);l=l+o;local n=D(i(n,l,l+e-o),G);l=l+e;return(n);end;e=h[d()];t[o]=e;while(l<#n)do local l=d();if x[l]then a=x[l];else a=e..i(e,o,o);end;x[c]=e..i(a,o,o);t[#t+o],e,c=a,a,c+o;end;return(s(t));end)("PSU|21J1q1q23923910101h1T1C27921T21g111R22723421H1h1722B23C1821t1O1927922C21d27c21J21813131t21S21e27927925C2451l22927A27922B2101O1T1M21w2271921Y22P21B1d1A1C1b1q1722q1L1427921z217131o22U28V279225218181723j1M1727922U1K1T1221R1l1522B1R1A27E27g27I22w213101V1322Q29l27921U1z12181c1l1t1Q29L22e28428523e24q2402291s1d27U1x29L1m1J21t22X21m1V1D1F1A2a72851022821021G2291V1e29N27h22722Q21j1c22h22Q213191O28t27c27u21O1T29L111n11171R1t1V22N2A827923k26q21e2362BQ1021s1t24d25T2Bd1022b1Z1h121621X2Am2AO2aQ2as2At26O25r1d2bw25U23426a2291P182B127I2b41C2232Bw26823z21B2bv2aT1W25926522929W10230131e151n17161R171922d2BW25S2202602CY2At2791H151K27921w2111j1p22322t21519181828R27n2Ca2aP1A239131i27922129R1b1n22a27K142C72C92an2e52as22824B24E26X22m24Z22827S27922P151021221J11101r1123J1n1629X2191s101m1M21t2bw27921S2D329M102eW1021J21I161N1T162F42e828C21o1Q1P22422U21f161q2fs2262e42Aq2392DP27922F21Q171Q1H2ee23B21k111a2bi22A2G62ar2bw24g25D24h25t2Fu1027F2b22cr22H23721n28S1s121e1b1T22Q28b1021X2Dy2E028r1L1D22423821N1t1s1f151b23i2d42Ds2du22323E21H111b1m22q1U1F29421g1a171T1a122hg23b21i1l2Gf112fe2at23k25n1b2292eu2C321e2aQ2DA2bm1v23G2il2fl21C21N2cO1b19238171m29421028o171E1F1s22c2H0192Hn1o22F2Gn2Cd2852182302DL27924W25h21h22928R2cp22722V214101B21w22Z2161j1v1C21t182302191Q1I2D719112251R2FF22m1u229111g28c28e28G28I28k23021512121B1a1N2IF28622Z23A24d22929A2ev2ex21g21D161222f2Ff1y26A2Bt2dM21V132l229B1022021O101421J1y1h21y2bw2581623e25T2iL27V19191L1v2fr28t2L31022C2Hj2hL2Hn22L28421S26S22Z2372eR2282J12js22U2132k122522T21D2gf2hL2Hg22Q2F92Gv2FF21Q23I2fi28c21i2m02fP2102L7122382I02I22i42i62I82242GN2392AZ27921x2mr1n2mt2nF2EK2G72931022V161C182382m621Y2MN1v142de23A1K2EX2C321N1729T22Q2KJ2Nj2171d2iY1F2gE1121W2JG2Bw2341121d2jl1024o21g2642ay2b02GV29o2B32b522H23621F2HM1O2KX28521k23C229141l2792NZ2AF191b2g5213181f172I51D2b721A1d15112382AE27E21e2DB1j2HG2NG2F627E1Y101628r22T2fP28c21K1I2i42iQ22523921l1o161J1K1622b2oL2IG2641s2cm2cO102242191n2kW23421l1T22T2m62212nP2KV2p62Bx2752292q21021v1521G1J2nV2la2dM21022S2rA2F72Rc27Z28121t1y181P2js22q1Z152jY2k02K22K42k62K82ka2kC21k2pv2Qu2112J71S27Y112G31J1i1722t2O52792341H182f32p623k25o23p23t22922f21y27922w2fA14132212pc22L1J1m22h2211E2Hk1t2Qx161M1n1h1C2sE1h28R22I2251c1221u22628O1f1C17152T61a1f1F21Z2312PQ1r1V21921p1n22521U2nV1721T23E1s152111b22421u1P1K22B2Ff21G2382291Q1B2792242sA2j822C2HU2hw2fd2FF182202Qs2JS22r2171123c2G92Ox2b22MM2mo23621p1d1D1R22c2MV2fA22Q2sk102sm2L82HY2H92UV2sB2jA21K122EX1v22B2H02O922P2mk2GV28n28P28r22c22x2PJ132Nm112272Qo2At22M24E2le28521s25g25g2292NA2vC2cQ2p02372km2TF2R721S1K24425t2wS2gw2Wu2b62372VY2W022q2il2x52272372N31023h2rt29x2u31V21X22W2u721U22K22K23221317141b21t2KQ2Ks2Ku2KW2BW21O27123l2n12wt2XE2101u2o32vB21V217191E1S22b2xz2kT2kv2QN2r52G82dQ1021z21413182Hw2262312182sH2GF2Gm2Yo2GU22i21R2PH2yY2Z01N22d22c22B22Q2Pq2ps2382Pb2I21D1S2Gj2nE2372FW1p2w12NG2zk2ml2O022528m28o28q1Q22c2yY1628p21T2vM102XB27T1022121p2Sn2252w31v22P2c22hr1p2142182Se2qJ2SH22T2Oc10310j2232x82vz29S2w22O8310g2K92792321B1i21X2bw21S1u24E25t2vB21W21I1j162Yv2262yK2kU2Ok2R52jh1024d21A26R2Ur2UT2c32X9310x310F22P2JR102sZ2lN2t22Pc2231D1Q1G1c28g2222212lk1P132301821021Z22y2152on10112f12791S1o14312o312n111h1G111I1g121u2362302791i1H131W2322262791x2262332802xV2e81M141u21c21A31361N151u21Y22G31362ql1U21021m279312U2802eh2fS312v111Z1z312v102Ks312x312Z31381u2312373136313K313a313c10313E233142O213141i313q1U2h3313V161U10314Z101I1l171u22B22531402F1314P2T1172f1112ks31473149280314c1I313k1U234232313P15314k313d313f1515172vz1i313w1H2I131523154313s313u31521q181U21L29R3149315V142NV315e280315H312u314p315k314U2xQ314x315s314M313F1616315D163153315521S22M31363168316531361R19314Z3151312u316t141d2kb312N314p316J312n2791j1n312T315e11312r317L314a12315k314E22d223314i14316q314n314P17314R314T313r232234314X1u22222c3136316422k21U31592LN314p13315d312n315G3148314113315K315m21521j315Q317y315u315W315Y313W1L311t316X1u1n31091I31722182A8312u316E316g312N316I318M315A14316m313r1t13316p313B315t233316t316V319121t22N3171316921921F317431761C2E93149317a317c315e317f319e10315v315K313w22G2sx316317318u2332Pm29B17319531691B2Pc315231751u319W31361o1a1u21721H318f2pM141E2gK312n315V317g312o112t62Ps2F12kS317O318n318P313L21K212318t319M316r233315v315X15315z314y21e218318B315523F22t319U1U22C222318f319A2YV319C13316j319F319H1U21D21b319l314l314n319P11316w316422l21v31By31As31AP317621o2Q431A216317b317d1131A6316D1531aa314y21M21031Bu31ag31ai1031Ak31721G2OW1i31Aq21a21c31At31Av23J22P31aZ2xv31b2315e31B531A7316t315K316423B22X319u31ag2e0171F1831Dc31762Jk31Dg31AR319X31521P1b1u191n318f2E0141f1B315E316t31B62kS1j1l2FS2F12801s1e1i315l313L22N21T315q1u22H21z31871y2lM31Ae1U1E2kK316731691K2FJ31e11u1z21p31e421I2JV31e731E92PZ31361U1C1u21V22l31362aO1u21g216313631eR1u23822y31361T1f1u21R1X3136121g1U23A22W3136318O1u233235313631521u22f312c315231b81u23d22V3136161K1u21q1w3136171L2Yb2RU3152141m1u141q314031C51j151m31Eu1w21i2J23152313q1w31GX313D1L21g315V1X21031bP316422322d31C215315C316k28w318F314p1V1v31BL31Bn3182313w23e22S31bu1u21221K31Hy1o1v315d2dB316t312U316X1W234228313D213316u2pM31d731AL1u22J21X319Y31iY31j0315231AU31j231Dk1O2QC1h29a316t2A331E0315431IP31Ir314m31It31D631d83169161o31J131JN31e431jQ31492pM31J81A31Ja31IL2ic314S31Jf31IQ31IS31Iu31Aj31iX22922731J131k731e431KA31JT1731JV31jx31JC22l22031Io31k231JI31k431IW317222022e31j131KQ31e431Kt31kd31kF31jB161l21z22a31kk31jh1x31jj31iv31jL1U21h21731j131LA31E431Ld31Kw31j931ky1L23C23131l331K331JK31Ix1A2YQ31FD31LQ31E431LT31lG31jW31Li1K111x1G21d2pM31hS31bP31aQ1x21R31e4151R31j72Qc1X21q1v2e01x21231aK31j51R2O6312U2E031JV31mF1v2m031MJ31AK31E81U281318f2M01O1j1b1X182151a1a1X21531E031fO1u23C22u318f2VI1Y2q4121C2h5311T314931N81t1j1e31n531n731n931nb1i31Nd23h22r31nH1D31NJ314A31NM2kU312p312U31nQ31NS31NU31n831nA31nc31FP1p2LJ312U31ni31NK31o61912318f31OA31NT31n631oD31nx31nD21z22h31o231O431nL2H518319K31NP1A31Nr31Or31NV31oe31ny31fP3151314931OK31o52h51f31I231o931P531ob21p1S31oT31oF1u21F219279121F2oF2D831op31p51G1d1x31Pm31PO31pA1u22728A314a31Pv1b1d2rn31pj1T31Q031Q231pN31Nw31PP22y23831pT31qA2tU31PY31qF31Q131Os31n92141931q521w22i31oY31OL2h52YU31qQ31Ob31qt1X31Qv31q521321L31R031pF1b12310931qE31R531P831r831nd23922z31Rc31p031eH2Fj31rH31NT31q331qU31Qw31ND31qL31qN2oF2Jw31Qq31QG31m231OD31hT31Q51D1j31fT1d1u31mb31Py1o2hF31Ms1B31n42171A1i31fu31Mn318f31sI31Sf31qs2151c1c1X216311431fz23i22O318f2tZ31oZ31301b1727d314931Su1T1d1G31NU31Su31SW31sY1E1u1I31T8312u31t331NK31T5162aF31t9312931tc31te31sV31SX1I31fz22I21W31t21f31T41G1B152Ow312U31TA31tU31N631tF31tx31fZ23g2H8314931Tn314A31T531EF318f31ua31tD31uC31Tw31th1u21P314831ui31u331TO31U51R31f831U931tt31tD31PM31ud31US31rY314a2ap28r1H31Un31291I1F31m121D31TF31s631fz21421i31G331G531sD31ts1O1N31vg31mg2vi1x21931a031g41u22a22431O231Vs31vu2aZ31Nt31vy1i31GA1U22M21s318F1e1E1O1831tD31MG2Tz31VX31A031gG21n21131u227S1h31mS1g31td31W931gL22122f318f31ww31AU31Et318O1W23722B318f31Et2fx13312z1j1H2gf31eC280101921H21P2f131qh2FC1x2181d312U1O1o1Q1f31en315d1P1P2E931A1101L1L312U2FC1T141P312u1k1k2ks1023o23Q317R2TH21n21i2F121P21o2f12k91h31x731x9314931Xb31hA31Xe31xg2qX1031xJ1922721Z31xO31PM31Xq21b31nt21c1h31XV31aK31XZ1131y11i31B828531Y631Y81m31Ya31yC2F131Ye31yg31yI31yk1c22521S2f121z21Y31Yr31X631x831xA31952f331YZ31xH31Z2319K1922H2Ki314M31z81M1x21A31vG31ZC31ZE3153316u31zH31Y231gv31zL31y72f131Y931YB31yd31yf31OO31Zu31XG1c21z2222F1229228320231yt320431yw31951o12320831z131z322b22j31Z71s31XQ21d31Td320l2BB320N31y031y231h1320S31zn31Zp320x31Zt31yj321122H22c2f122J22i321K31XG31xR1D31Zj1j1u31v8121m1k2H631hJ312U31Xg1T191k31QH322831ZA322b322d31qm314A322G1B1s31eC3149322l322n322P31WU321n322S322E322W1j31JO323027B323231Pm3228320J3236322u322F322h1i31H4322k323C322o1q21N322831ht1x23e22J1J1j31BO1x31zC323x171K1j320X1y1z31B727A323o312U2792TZ1027531402DB2VI2Dn2Us2uu1Z2To1d21O21o1D1o322Y22r1J31oO1022n1O22E2D423231b01b21021f31N31q22t2D421y21B1R1N21i21I317K317J2301v1G324L10237313l2De21821631Y62tZ2342nR2nt2nv2382vP325p2yB1923a2RB2391R1U2C61823E2m6228324r324T2bj28U31I223b1M182r12D421z2lQ213325H141V1a162rI2CE25R214322z1I32451W1x312p31XG312V1l2SH3272111W21631RR317m31I531yh23O312v1a321l279315V313632733275313d31mk312o2dB1124K24G317L1P1r324X2e031hb31b7312U21D31hq312o1m1Q31a031311w2122RN31TG2Ks1X29Z31eu319231rG31bb12324T141X31G82ks2Tv12328j2kS12328V1x1Y13328I328k314j2142Qt3199152A53249314p316T31492kS31wG320A31Xk31Re318F324D31622852BK16327727a31111031131i22u324w279324z22e2RB2rD2rf2Rh2FF2dN310R2371M27T319w317K1Y2161r31611922C17213325x2nu2nw325n22r1a32ag1F192182eC1N325K1g2iL22F21K1t1p1o318o2C72382IL2yE19323X122Tg1n22r2ws32A932ab21f32AD32AF32aH2HY325n224324N2I8324Q324S324u2nR326K326m22T2NR32BI2xH326D326f322Y112ob31F822021p1o1c1F31cH1d21i31Fg1r2N6311F325A2fj326p1H326r317K326u1621W31G83152327Q327631VC312O1l1o322A327321831tl327G31i623o327J312O1A21631Gz31A82O6327B3274312P3229327u2Fs24k24j315D31ZH3281279328332Cv327c2112o61x321n312O1X1w314D131u326l318F312O1o1R131X31sk32dK31M0211317l327v31l531eO327V3130121w32dV313d31ZA328U15328W31sx32Er328W31qv32Ev320i1F32eY29z32ev1H324w32cz1N1232el1W32d4318F2kS31YE3152328d1y324X328s317q328V313732e3319j317w1u32fO31HK319I31p3312u2Ks28f31CZ32f5111l32f731z3329k3149329m2dM111819324E27A2vP22029r2oA32c332Bu326H32am325z32A22re2rg32Ao311T32Bq324o32BT326G22r325n32cN21j2v815182tf1b23j32B032b232b432B6326W312P28526826K21A2vP2Sm2sO32c62vP22W29b2oa310R32c932cb32CD31tQ32cG2f232cj1622y325L329y324y325032B92yF32BC32bE22r32bW326L1t312132Dt32fA31T8327732CZ1s31Qw327321A31db31311u31oh32e61121031D332d8327K1H31Mc2q52rN32dg32FB314m31qv32ED24K24v31eH32dp324x2m0327P327c32fh313D32E132ed1x32EF32Jd31XS32JD32Ec329p31M03292328u2fs32fm1W3297317W1W32Ja31kM3180314R32fJ32jW328R31HT314P32Je317P329D2f731cw15280328331z31g31H432912YU29731D71H2Cn32CZ1m1331zU2801c325e279324g329i2pg324X324C1032GB329O32g92Fc2DN32H532b332b52C6326w2ff25c27321a32BP32br324P32c432Bf2nr2322TT2Nw329T22r31EH23C2Vp2312A21n1b23d32gK2nw2Rb2372DB2DD326432I6326m32hw325m311t32gx32gz32H132ls23j2c2237318O1m31e811213218316U2H732gh326G32C632i132Bb324W32i432Hy32A032Hf2sn2f322q2rB22e21j2PF1s22w32Gm32A432lK31p32ye2v9329t329v22u32hn32cA32Cc32CE32hs32cI21d32ck2cn27922821r1s1q1T2FR1122331wr32IA32iI2dn32cy32G01H314s327332JR32Ff31321V31O8317M32iP327i327K21A31D332Iv32j81w32ny314M32JF32jK24K24t2KB32J527932J732Ia21b316232F9328f313d328T328Z32Es328h32P0328W321n32Ey31sK3294321E328O329E315f31Xd32g82cO31Z321731CR31Bq1W2xU313D31HT31cg1632KE31Ai315Y317231A0318f316T1o1g1832IR316t1A21431cR31Xv316p32OX314M31vY32po328x32qA31xs32qA21h2Ql320o31CI31aF2mR313d21E323y31l71X21g1L31Dx2Vz312u2PM32ob31KG31kZ319g31zU312o31fp31A1315H32kT32g432KW32Ky314032g932gb1H32Lv23832ne32Hp32NH32ch32HU2sj2O632hg2F3231325l32lc32gS32lf324V324x324z23932HA27932hC21a32l332H732l623832N532gO23832m22R132Mp32I32gf22r32Gd32gf29u32Gw2lQ32GY1132H032H22992lj326e32Gi32c632Hy314H2332fa32Ia32eO324A32781r31es32732dY313632IK2qI32In32ob32Ir32da32It279329E32sw32DW31zA32j124n32pD328032j63194327332dD314M32jh32JK32k332JI2gK32TR32Jc32Tr31nb32jN32E232jT324X31hg32to31mv32Jz31Tg32U631vy32K232Ol318G32pB1432k832kf32KT32kc313D31nB31dX32Kh32KJ32G01T32pZ31Yj32KO32KQ324F31HA32R532KV32ha32R831pT324x329l32R7329N28531Yg329o32o928532uz317Q2aT324C32v332g72DB32Fe27A32663268326a23E32Rd32Mm32c522Q325n3262325r325t1L325v2iL22a2vh2vJ21i2mW29V2Fj22Q2ZT21h2152Yu2bI22R32rF32nG32HR32Ri32nk1632CL2Pd325d325F326s317J22R2NI10325c171A1Y325D2bk32Sj32H023932sa32Mr2GF32ay32s5325z32mt32I0310932B132L432h8326x2852CF21a325232543256325822t32Rq32bS32RS32S832wI2YR326Q326S32Cr32602o632W52fa21U1u31cc32ia32iy32ID32G0310o327332QK3149312O327h32t92GJ210313o32dE32oH32Iy1X32qm32j124U32TU32TK32dr2QT32DG327r314M21f31zj31m032e132fM1U31FM32y81132e832eA31ht32JD31Nb32Dz32yw314E1q31PI317m32Z231oe32Z732E21U32T632Z032Z232Yb32Db32DD32Vh32Yq32DI29z32jd32dY32tR32j032tr31It32ed32F932yR322932Ey31HT32EY32EF32EY31it32Ey32Eu32P332F432P931H231EH3145328621e32Pd1M1O31Es328D330032yT32p8328L314W329f328P1s328R32p532p332ez32EY31mK330P314j32to3299329b31I132pb328o329H32G332uX32v932V4312n32vg2yQ1h2vp32XW2gV1Z32X62392Ff32xe32lv23F325l32s132l532B7326O32xr32Cq326V32s42rn32A332S632X032BD32SC32vJ32692a023e2D4331J32w732W932Bf32vO326h32xL32LE32Gi32I5326j32I722T32wP32wR32WT32wv1732wx1832672fj325C325e325G325I32bf325n2nK2mS31Pv21A32W232Wc32Hq32cf32wF32Ck32VR325Q32AU32vu325V32xG2Xv3255325728r22J32Y032Zp32NZ32782pc32dg21931TR312u32Y932d732D932YC32Ye327O32ia330031g832j1327Y312o32yN1032DS32dG1z31p332eI32zf32yx31sO32zj32E932eB32tU32Eh32TG32yV32ZG31F732iN32ZD334p32e032zg1F31vC334K32Km334032ZM27932ZO3273334e313d31sx32jD31Vy32Z52YV32tR31ZC32zY328d3357314M3303330X32P7330X330W329031ZC330z315X330a32fZ3279318j32852F121d1Z32Yu322g32f8335H334f3307328w3295313L318Z32fc330t328R31VY32Ey32QM32EY320J3311317X32t331cY3315319f3317317q3319320b32R632UY331d329P32VH1H332I32gt324U32x42nW332432i4331T32h8238333J2xW32xI2Q732s82lS2dM331p31i2325Y2nW332G32sR32ru3250332p21B32ws32WU2f3332t32M8332w28X331x326T331z332B32w632w82yV32BF332732vl333E3263325s325u1F2oN32C832NF333a32ni32rj331I2Zt21s1Y325b32wk33301432Wn310r21T2w82Zz21l32mj28P1Z2Mw32RO21A333p32t2310932Y329I1G32Dg32sX333X1132yA335232Yd327N32Df3393313d32ZT327V24K253324532OQ334b32yp327332Pl314m3359334q32yx32fR339a32ZD335B32tr32jj334W32yx32pU3350334m334h314E3161334T32e932zL32dC335431Lr339r2lJ32Ze32TR334632TR32zr32tR320J335g32em339s32ke32EY336e330x330o330x336i330x32E132f3335u31lZ317M324921D21r1E32891g316W328d33as3309328X328L32E5330S328Q32Fj33042eh330x335q336732F8314j333v31HY336n32UC32k633182B0331A329L32KX331d32Vb32v733C132uz329P32rb32Xo32vN32SO32LF32c6331W32Co32Xs337Z2fj3253333k337b1Q32hW21F32a62FH2c232my1C21k31PS21r2Wx1n32vq32Gq32lD33701n283337f25r32XF332X338N32wm32BF2gU2EB2Jw2ee2EG2EI2Q12rN32673328326B2S822P31lz1r1d1n1c1A1428F2tf22Q32X6324Z32OH32OJ339532d132dg331332d632Oc32da2tC339F33E22ow32dJ32Om24H31BA334A32dS11329332851021d21I32dO1M31MT21D21m32j41m33BB32ZZ32Di32jm33bq330Q331b32fW330U31oe33BM32p62I733F2314J32iy33143207336o33bX336q33Bz336S331b32G632vC2dB32Rb336z32RS33DD32Aw2ef21H31432Ej2CB2e62c233DP27H33DS32kP2de2bB32w332wJ332z33Db32rT329z3250325n33cT33CV1021a2B933g633cF32Cp337Y32L733D621a32s832m433853329337K326i279337i32XC2Wn2y733ck337a333m1Q230323a32DG21031I2339532F732Dg32o5339a339C327K33eB32YF32IA33h9313D33aN339k32oO334932DQ339P314033em33B63288111M27m21D21c31B71M33Dr32f932YH336633BG315m336a33BJ33f632OZ329032EQ330X33F133I8317x327e33BU33Ff33BW330s336r329j33FL33C232G71A31Qb31tR32iT33Cj32Xh33H42R233Cc32sQ22Q33fs33df33Fu33fw2WI32xd33D733G033DQ33G31B1J2P433D027933gf31ps21q2P3151O33Ji2QU33D232lf32ay32rD32X622E32xO338M33G9333122R33GL33Ch1623c1T32Oh336L339532o232dg33IK32Z033hg32da1m32Sv334332dg336l32ts32om32Dn33HQ3282339Q111U334J32Fv317r312Y32yx330R315e31EL1g2e8314e339x319f31HZ312Z314U32Fr23N23k2801p32UV31ww31d432o531wn31M431Mk31fd32o831J71H1932EI31JK32FJ33LS31Sx33lk32do31xk1933152Db31n81r1P32p931d72I51N1a33LB132KK31F81r32iU33C032G533is33fN1632rB33DO33JD33dt1A321d2xa33gT326B32rD33K3331y33go326y33d833G832wl33k1337d33CQ22933jW33fQ332k33CS33DT33GG21r311v1V22q33gv33J52ED33J733di2yO3379333L325832HW32b432Oh32o53395333t327332q733hF333Z33hh322Z33kJ32o42qt32Fj32J124q33b9339o33EK33Hu328621n32TU31hF1421d21p2Ti33Hx27m32F932JU33AT33fB3369311T33kv33bk32ex330x31XS330232Es33OO32dH33IL329c14336p329G33fj33IQ33c6336v33Fo316233ix311233Iz32xj32rd33N732GU33MV33gn33GZ10337G27932BX326N33D933k0338p332f33J232mn2Hz316233Jk1021R2hJ2bL2H42H632ro1g33mS22H33N433NH33dg33Fv33nk33fy23933jW310r33g133dr33Mo2Bm33Q22h51T22Z33h7327333Bt32SY32cz32t0339831Mo33E832Zl33Hi33O1327c33qS1X334P33Ho32OP33Ej329833oA335y21L335D33oe33OG33oi31Zo3114330m33f0329333OO32il31oI328o33bk32f2330x33iD32p133I73368327d327f32de33BV32K533io33P532Ku33p72DM33C432V2336u33S6314p31n82Dn337223833pG324U32wp22x1Q33FY21J21M1E1921Q32wg22T337432Sc2h933sj33fY21D21N12132NV21N32WG2M533Pu32vp32Rd333932rh32ht33sr33Pi32XT337632l623931F831Et10328E328G31hT27931iV334W33TO29b32KE33tr314m31MK33Tu32DG32Q733aj33A3314E319333AB32Ea32OL327v33Kv324J33EL32p91R1q31m033Hn2Fs33o432JK314C27931y633MH32va328u2lJ2GF332132gN325z33T932We33TB311F337E2DM2fH33GV33sT32lg337h32AN33Sf33d132rr32GI23f31942E932eN32DW329233tU32EI33VG32Ef33Vg32E133TU339a324j328X32Ed33Uj31y52PC32vE2dM33uo27921e33N433V232gv33v732xM332K33T8338d32rg33uV32nJ32cK33GV337223033vB33tk335I31m533vg29z33vK312P33tP33VJ33m632z033vO33AL327V33VR1L311F33vU2aT33Vw27A33uU333b33uW32WH33PF33w2332J32gu33W0337K2r72fG2RM27933222Nv33wD313633Vc330033wn33tp33WJ33wo33tt33xN32CU33Wo33vn2aF31M533vQ312y33Uk33wV33S933vv32v132g533wW32V533Y132vd33XZ33wx33Y532v833FM33y832Vc33ya33mi285"),(#b-V);local function o(l,e,...)if(l==883535675)then return((n(n(((e)-298610)-983617,510156),304166))-77755);elseif(l==248386664)then return(n(((n(e,203451))-296968)-191980,397767));elseif(l==253498337)then return(n((((e)-601078)-839268)-787497,619303));elseif(l==81317447)then return(n((n(n(e,675245),731539))-137625,368629));elseif(l==913318327)then return(((((e)-597784)-165334)-116418)-754166);elseif(l==390103392)then return((n(n((e)-259742,277834),403698))-317667);elseif(l==443135401)then return(n(n((e)-13570,562126),265211));elseif(l==446610599)then return(n((n(e,267255))-575487,388634));else end;end;local B=l[((#{}+648569196))];local D=l[(623927242)];local x=l[(411639390)];local u=l[.6743165090094863];local a=l[(372387638)];local t=l[(488002140)];local o=l[((#{133;110;881;108;(function(...)return 257,666;end)()}+859209772))];local F=l[(110858440)];local function d()local l=n(E(s,c,c),e);e=l%o;c=(c+a);return(l);end;local function f(n,l,e)if(e)then local l=(n/u^(l-a))%u^((e-a)-(l-a)+a);return(l-(l%a));else local l=u^(l-a);return(((n%(l+l)>=l)and(a))or(t));end;end;local function t()local t,a,x,l=E(s,c,c+x);t=n(t,e);e=t%o;a=n(a,e);e=a%o;x=n(x,e);e=x%o;l=n(l,e);e=l%o;c=c+F;return((l*D)+(x*B)+(a*o)+t);end;local function x()local l,a=E(s,c,c+u);l=n(l,e);e=l%o;a=n(a,e);e=a%o;c=c+u;return((a*o)+l);end;local G="\35";local function b(...)return({...}),k(G,...);end;local function p(...)local S=l["Bn84Ncf0"];local U=l[(505930757)];local D=l[(719247483)];local m=l[((#{768;895;693;[551]=705;725;}+411639386))];local M=l[(376718278)];local O=l[(525889749)];local V=l[.6280632450376];local y=l[.23692856367534426];local N=l[(758876304)];local J=l[(562367378)];local R=l[(102238802)];local T=l[((#{183;[491]=684;730;674;(function(...)return 813,568,922,542;end)()}+110858433))];local F=l[.6743165090094863];local Z=l[((#{5;(function(...)return 189,84,730,745,...;end)(598,106,431,659)}+915119357))];local A=l[((#{366;665;359;396;}+859209774))];local o=l[(488002140)];local B=l['dvGTEOcd'];local L=l[(699001854)];local Q=l[(59038640)];local k=l[(961123498)];local C=l[(134188061)];local v=l[((#{}+26675630))];local w=l[((#{111;657;502;250;}+223185583))];local I=l[(871626146)];local l=l[((#{141;305;}+372387636))];local function G(...)local b=({});local a=({});local u=({});local P=d(e);local p=x(e);for x=o,t(e)-l,l do local r=d(e);if(r==Q)then local l=d(e);a[x]=(l~=o);elseif(r==U)then while(true)do local c=t(e);local n=t(e);local t=l;local c=(f(n,l,y)*(F^C))+c;local e=f(n,R,M);local n=((-l)^f(n,C));if(e==o)then if(c==o)then a[x]=(n*o);break;else e=l;t=o;end;elseif(e==N)then a[x]=(c==o)and(n*(l/o))or(n*(o/o));break;end;a[x]=Y(n,e-L)*(t+(c/(F^Z)));break;end;elseif(r==J)then while(true)do local t=t(e);if(t==o)then a[x]=('');break;end;if(t>S)then local o,d=(''),(i(s,c,c+t-l));c=c+t;for l=l,#d,l do local l=n(E(i(d,l,l)),e);e=l%A;o=o..h[l];end;a[x]=o;else local l,o=(''),({E(s,c,c+t-l)});c=c+t;for c,o in g(o)do local n=n(o,e);e=n%A;l=l..h[n];end;a[x]=l;end;break;end;else a[x]=(nil);end;end;local n=t(e);for l=o,n-l,l do u[l]=({});end;for C=o,n-l,l do local n=d(e);if(n~=o)then n=n-l;local h,r,E,i,c,A=o,o,o,o,o,o;local s=f(n,l,m);if(s==F)then i=(x(e));h=(d(e));c=u[(t(e))];elseif(s==o)then r=(x(e));i=(x(e));h=(d(e));c=(x(e));elseif(s==D)then elseif(s==l)then i=(x(e));h=(d(e));c=(t(e));elseif(s==B)then r=(x(e));i=(x(e));h=(d(e));c=(t(e));E=({});for n=l,r,l do E[n]=({[o]=d(e),[l]=x(e)});end;elseif(s==m)then r=(x(e));i=(x(e));h=(d(e));c=u[(t(e))];end;if(f(n,k,k)==l)then A=u[t(e)];else A=u[C+l];end;if(f(n,D,D)==l)then r=a[r];end;if(f(n,T,T)==l)then i=a[i];end;if(f(n,B,B)==l)then c=a[c];end;if(f(n,O,O)==l)then E=({});for l=l,d(),l do E[l]=t();end;end;local l=u[C];l["Zpjs"]=A;l[V]=r;l["mEDfTd"]=i;l[v]=E;l['ftc']=h;l[I]=c;end;end;for l=o,t(e)-l,l do b[l]=G();end;return({["olp8Tgve"]=p;['pho']=P;['LcsP']=b;["ET0SwJQM"]=a;['T0UH353V']=u;[-w]=o;});end;return(G(...));end;local function u(l,s,i,...)local e=0;local h=l['LcsP'];local n=l["ET0SwJQM"];local d=l["olp8Tgve"];local n=l['pho'];local l=l["T0UH353V"];return(function(...)local c=324119;local t=l[e];local o="mEDfTd";local O={};local A='ftc';local x=-(1);local l={};local B={...};local E=(k(G,...)-1);local D=960579;local F='Zpjs';local e=(586690857);local a=14740;local f=({});for e=0,E,1 do if(e>=n)then O[e-n]=B[e+1];else l[e]=B[e+1];end;end;local e=E-n+1;while(true)do local e=t;local n=e[A];t=e[F];if(n<=17)then if(n<=8)then if(n<=3)then if(n<=1)then if(n>0)then l[e[o]]=C(256);elseif(n<1)then local e=e[o];l[e]=l[e](r(l,e+1,x));for e=e+1,x do l[e]=nil;end;end;elseif(n>2)then local n=e[o];l[n]=0+(l[n]);l[n+1]=0+(l[n+1]);l[n+2]=0+(l[n+2]);local o=l[n];local a=l[n+2];if(a>0)then if(o>l[n+1])then t=e[c];else l[n+3]=o;end;elseif(o<l[n+1])then t=e[c];else l[n+3]=o;end;elseif(n<3)then local a=e[o];local c={};for e=1,#f,1 do local e=f[e];for n=0,#e,1 do local e=e[n];local o=e[1];local n=e[2];if((o==l)and(n>=a))then c[n]=o[n];e[1]=c;end;end;end;end;elseif(n<=5)then if(n>4)then l[e[o]]=#l[e[c]];elseif(n<5)then local n=e[o];local o,e=b(l[n](r(l,n+1,e[c])));x=e+n-1;local e=0;for n=n,x do e=e+1;l[n]=o[e];end;end;elseif(n<=6)then local e=e[o];local o,n=b(l[e](l[e+1]));x=n+e-1;local n=0;for e=e,x do n=n+1;l[e]=o[n];end;elseif(n>7)then local n=e[o];local c={l[n](r(l,n+1,x));};local o=e[a];local e=0;for n=n,o do e=e+1;l[n]=c[e];end;for e=o+1,d do l[e]=nil;end;elseif(n<8)then l[e[o]]=l[e[c]][e[a]];end;elseif(n<=12)then if(n<=10)then if(n==9)then t=e[c];elseif(n<=10)then if(not(l[e[o]]))then t=e[c];end;end;elseif(n>11)then local n=e[o];local a=e[a];local o=n+2;local n=({l[n](l[n+1],l[o]);});for e=1,a do l[o+e]=n[e];end;local n=n[1];if(n)then l[o]=n;t=e[c];end;elseif(n<12)then l[e[o]]=u(h[e[c]],(nil),i);end;elseif(n<=14)then if(n>13)then local e=e[o];l[e](r(l,e+1,x));for e=e+1,x do l[e]=nil;end;elseif(n<14)then l[e[o]]=s[e[c]];end;elseif(n<=15)then do return;end;elseif(n>16)then l[e[o]]=({(nil)});elseif(n<17)then local n=e[o];local a=l[n+2];local o=l[n]+a;l[n]=o;if(a>0)then if(o<=l[n+1])then t=e[c];l[n+3]=o;end;elseif(o>=l[n+1])then t=e[c];l[n+3]=o;end;end;elseif(n<=26)then if(n<=21)then if(n<=19)then if(n>18)then local n=e[o];local c=e[c];local o=50*(e[a]-1);local a=l[n];local e=0;for c=n+1,c do a[o+e+1]=l[n+(c-n)];e=e+1;end;elseif(n<19)then local x=h[e[c]];local t=e[D];local n={};local c=M({},{__index=function(e,l)local l=n[l];return(l[1][l[2]]);end,__newindex=function(o,l,e)local l=n[l];l[1][l[2]]=e;end;});for o=1,e[a],1 do local e=t[o];if(e[0]==0)then n[o-1]=({l,e[1]});else n[o-1]=({s,e[1]});end;f[#f+1]=n;end;l[e[o]]=u(x,c,i);end;elseif(n>20)then l[e[o]][e[c]]=l[e[a]];elseif(n<21)then l[e[o]]();end;elseif(n<=23)then if(n>22)then local n=e[o];local c={l[n](l[n+1]);};local o=e[a];local e=0;for n=n,o do e=e+1;l[n]=c[e];end;for e=o+1,d do l[e]=nil;end;elseif(n<23)then l[e[o]][e[c]]=e[a];end;elseif(n<=24)then local n=e[o];l[n]=l[n](r(l,n+1,e[c]));for e=n+1,d do l[e]=nil;end;elseif(n==25)then if(l[e[o]]~=e[a])then t=e[c];end;elseif(n<=26)then l[e[o]]=l[e[c]];end;elseif(n<=31)then if(n<=28)then if(n>27)then l[e[o]]=C(e[c]);elseif(n<28)then l[e[o]]=l[e[c]][l[e[a]]];end;elseif(n<=29)then local n=e[o];l[n](r(l,n+1,e[c]));for e=n+1,d do l[e]=nil;end;elseif(n==30)then l[e[o]]=e[c];elseif(n<=31)then local e=e[o];l[e]=l[e]();end;elseif(n<=33)then if(n>32)then local o=e[o];local n=l[e[c]];l[o+1]=n;l[o]=n[e[a]];elseif(n<33)then l[e[o]]=i[e[c]];end;elseif(n<=34)then l[e[o]]=(e[c]~=0);elseif(n>35)then local e=e[o];l[e]=l[e](l[e+1]);for e=e+1,d do l[e]=nil;end;elseif(n<36)then local n=e[o];local o=l[n];local e,c=0,50*(e[a]-1);for n=n+1,x,1 do o[c+e+1]=l[n];e=e+1;end;end;end;end);end;return u(p(),{},w())(...);end)(({[.6743165090094863]=(((#{[190]=312;208;286;[112]=980;552;[603]=398;[180]=386;814;}-2)));[.5407482113413271]=("\115");[((#{(function(...)return 589,232,888,...;end)(158,685)}+704304694))]=("\51");[(9172401)]=("\104");[(59038640)]=((30));[.592093224447264]=((78));[(732200673)]=(((#{[245]=822;471;[781]=890;962;651;[901]=9;657;(function(...)return;end)()}+32)));[(256278038)]=("\110");[.6280632450376]=((14740));[(915119366)]=((52));[(719247483)]=(((#{480;323;(function(...)return 996,586,538;end)()}+1)));[(199828862)]=((435527582));[.7145074818816537]=((704304699));[((#{(function(...)return 206,642,...;end)(611,606)}+558674877))]=("\114");[(970447992)]=((165));[(828414963)]=("\103");[(223185587)]=((694983));Bn84Ncf0=((5000));[(505930757)]=(((#{678;548;197;(function(...)return 287,885,595,719,...;end)(988)}+42)));[.9338258844492147]=(((#{173;597;631;378;(function(...)return 873,200,123,955;end)()}+558674873)));makGObOEYd=("\97");[((#{690;698;644;734;}+810256512))]=((754025144));[(754025144)]=("\101");[((#{(function(...)return 604,341,787,667;end)()}+488002136))]=((0));[.22916842076423038]=("\120");[.8493304321772095]=("\119");[(435527582)]=("\118");[(471740583)]=(((#{355;837;642;}+18116324)));[((#{[888]=873;303;304;(function(...)return 171,829,263,845;end)()}+306440473))]=((487265894));[.6253247515416354]=("\100");dvGTEOcd=((5));[(518060172)]=((113078318));[(487265894)]=("\109");["GT5T1Wm"]=((474937277));[(474937277)]=("\112");[(134188061)]=(((#{[569]=80;415;177;}+30)));[((#{812;176;638;(function(...)return 395,169,346,...;end)(780,632,834)}+148817974))]=((742011383));[(411639390)]=((3));[(376718278)]=((31));['BMOVg9i']=("\107");[(372387638)]=((1));[(362211204)]=("\117");[(731614853)]=((174));[((#{472;891;298;368;(function(...)return 11,29,63;end)()}+742011376))]=("\111");[(113078318)]=("\116");[(859209778)]=((256));[(699001854)]=((1023));["s0TXh5yE3f"]=((362211204));[((#{}+333267147))]=((256278038));[(871626146)]=((324119));[.6114665994474043]=("\105");[(18116327)]=("\98");[(562367378)]=(((#{110;241;625;}+14)));[(697276335)]=((926714613));[(102238802)]=((21));[(110858440)]=(((#{[660]=539;618;[404]=102;345;146;394;}+0)));[(926714613)]=("\108");[(971547033)]=(((#{678;[704]=313;220;107;(function(...)return;end)()}+9172398)));[((#{[817]=507;442;501;}+223561070))]=(((#{612;539;44;626;}+828414959)));ymscPa=("\99");[(855191792)]=((55));[.23692856367534426]=((20));[((#{783;(function(...)return 814,266,855;end)()}+758876300))]=((2047));[(648569196)]=((65536));[(26675630)]=(((#{[55]=769;825;33;(function(...)return 43,406,...;end)(135)}+960574)));[(652616065)]=((248));[(736066047)]=(((#{(function(...)return 527,61,63,...;end)(13,383,781)}+84)));[((#{512;4;(function(...)return 901,873,580;end)()}+525889744))]=((7));[(623927242)]=(((#{[476]=80;[859]=303;937;}+16777215)));["R9tJIuIB"]=("\102");[(961123498)]=((8));}),...);
+local HttpService = game:GetService('HttpService')
+local Supported = false
+local Script = nil
+
+local GameList = game:HttpGet('hhttps://raw.githubusercontent.com/alfiebgtbhgh/BlazeHub/main/GameList.json')
+
+function GetGame()
+    local GameTable = HttpService:JSONDecode(GameList)
+    if GameTable[tostring(game.PlaceId)] then 
+        return GameTable[tostring(game.PlaceId)]
+    else
+        return false
+    end    
+end
+local Game = GetGame()
+
+if Game then
+    Supported = true
+    Script = game:HttpGet('https://raw.githubusercontent.com/alfiebgtbhgh/BlazeHub/main/' .. Game.ScriptName)
+end
+
+local Loader = Instance.new("ScreenGui")
+local TopFrame = Instance.new("ImageLabel")
+local Underline = Instance.new("Frame")
+local MainFrame = Instance.new("ImageLabel")
+local TopLine = Instance.new("Frame")
+local GreenLine = Instance.new("Frame")
+local DuckText = Instance.new("TextLabel")
+local HubText = Instance.new("TextLabel")
+local CloseButton = Instance.new("TextButton")
+local TextButton = Instance.new("TextButton")
+local Rounding = Instance.new("ImageLabel")
+local Outline = Instance.new("ImageLabel")
+local Outline2 = Instance.new("ImageLabel")
+local GameText = Instance.new("TextLabel")
+
+local HoverClose  = Color3.fromRGB(255, 55, 55)
+local NormalClose = Color3.fromRGB(255, 255, 255)
+
+Loader.Name = "Loader"
+Loader.Parent = game:WaitForChild("CoreGui")
+
+TopFrame.Name = "TopFrame"
+TopFrame.Parent = Loader
+TopFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+TopFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+TopFrame.BackgroundTransparency = 1.000
+TopFrame.Position = UDim2.new(0.5,0,-1,0)
+TopFrame.Size = UDim2.new(0, 270, 0, 26)
+TopFrame.Image = "rbxassetid://3570695787"
+TopFrame.ImageColor3 = Color3.fromRGB(20, 20, 20)
+TopFrame.ScaleType = Enum.ScaleType.Slice
+TopFrame.SliceCenter = Rect.new(100, 100, 100, 100)
+TopFrame.SliceScale = 0.040
+TopFrame.MouseEnter:Connect(function()
+	game:GetService("TweenService"):Create(CloseButton, TweenInfo.new(0.25), {TextColor3 = HoverClose}):Play()
+end)
+TopFrame.MouseLeave:Connect(function()
+	game:GetService("TweenService"):Create(CloseButton, TweenInfo.new(0.25), {TextColor3 = NormalClose}):Play()
+end)
+Underline.Name = "Underline"
+Underline.Parent = TopFrame
+Underline.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Underline.BorderSizePixel = 0
+Underline.Position = UDim2.new(0, 0, 0.846153855, 0)
+Underline.Size = UDim2.new(0, 270, 0, 4)
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = TopFrame
+MainFrame.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+MainFrame.BackgroundTransparency = 1.000
+MainFrame.Position = UDim2.new(0, 0, 1.07692313, 0)
+MainFrame.Size = UDim2.new(0, 270, 0, 100)
+MainFrame.Image = "rbxassetid://3570695787"
+MainFrame.ImageColor3 = Color3.fromRGB(24, 24, 24)
+MainFrame.ScaleType = Enum.ScaleType.Slice
+MainFrame.SliceCenter = Rect.new(100, 100, 100, 100)
+MainFrame.SliceScale = 0.040
+
+TopLine.Name = "TopLine"
+TopLine.Parent = TopFrame
+TopLine.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+TopLine.BorderSizePixel = 0
+TopLine.Position = UDim2.new(0, 0, 1.07692313, 0)
+TopLine.Size = UDim2.new(0, 270, 0, 4)
+TopLine.ZIndex = 2
+
+GreenLine.Name = "GreenLine"
+GreenLine.Parent = TopFrame
+GreenLine.BackgroundColor3 = Color3.fromRGB(0, 255, 136)
+GreenLine.BorderSizePixel = 0
+GreenLine.Position = UDim2.new(0, 0, 1, 0)
+GreenLine.Size = UDim2.new(0, 270, 0, 1)
+
+DuckText.Name = "DuckText"
+DuckText.Parent = TopFrame
+DuckText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DuckText.BackgroundTransparency = 1.000
+DuckText.Position = UDim2.new(0.0119999638, 0, 0, 0)
+DuckText.Size = UDim2.new(0, 38, 0, 25)
+DuckText.Font = Enum.Font.Gotham
+DuckText.Text = "Duck"
+DuckText.TextColor3 = Color3.fromRGB(255, 255, 255)
+DuckText.TextSize = 15.000
+DuckText.TextWrapped = true
+DuckText.TextXAlignment = Enum.TextXAlignment.Left
+
+HubText.Name = "HubText"
+HubText.Parent = TopFrame
+HubText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HubText.BackgroundTransparency = 1.000
+HubText.Position = UDim2.new(0.152740702, 0, 0, 0)
+HubText.Size = UDim2.new(0, 35, 0, 25)
+HubText.Font = Enum.Font.Gotham
+HubText.Text = "Hub"
+HubText.TextColor3 = Color3.fromRGB(0, 255, 136)
+HubText.TextSize = 15.000
+HubText.TextWrapped = true
+HubText.TextXAlignment = Enum.TextXAlignment.Left
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = TopFrame
+CloseButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.BackgroundTransparency = 1.000
+CloseButton.Position = UDim2.new(0.907407403, 0, 0, 0)
+CloseButton.Size = UDim2.new(0, 25, 0, 25)
+CloseButton.Font = Enum.Font.Gotham
+CloseButton.Text = "Ã—"
+CloseButton.TextColor3 = NormalClose
+CloseButton.TextSize = 25.000
+CloseButton.TextWrapped = true
+CloseButton.MouseButton1Down:Connect(function()
+	TopFrame:TweenPosition(UDim2.new(0.5,0,-1,0), Enum.EasingDirection.Out, Enum.EasingStyle.Bounce, 1, false)
+	wait(1)
+	MainFrame:Destroy()
+end)
+TextButton.Parent = TopFrame
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.BackgroundTransparency = 1.000
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.0814814791, 0, 3.15384603, 0)
+TextButton.Size = UDim2.new(0, 225, 0, 35)
+TextButton.ZIndex = 3
+TextButton.Font = Enum.Font.Gotham
+TextButton.Text = "Load Script"
+TextButton.TextColor3 = Color3.fromRGB(110, 110, 110)
+TextButton.TextSize = 16.000
+TextButton.MouseButton1Down:Connect(function()
+    if Supported then 
+        GameText.Text = "Loading"
+        wait(0.2)
+        GameText.Text = "Loading."
+        wait(0.3)
+        GameText.Text = "Loading.."
+        wait(0.3)
+        GameText.Text = "Loading..."
+        loadstring(Script)()
+    end
+    TopFrame:TweenPosition(UDim2.new(0.5,0,-1,0), Enum.EasingDirection.Out, Enum.EasingStyle.Bounce, 1, false)
+end)
+
+TextButton.MouseEnter:Connect(function()
+	game:GetService("TweenService"):Create(TextButton, TweenInfo.new(0.25), {TextColor3 = Color3.fromRGB(255,255,255)}):Play()
+end)
+TextButton.MouseLeave:Connect(function()
+	game:GetService("TweenService"):Create(TextButton, TweenInfo.new(0.25), {TextColor3 = Color3.fromRGB(110, 110, 110)}):Play()
+end)
+
+Rounding.Name = "Rounding"
+Rounding.Parent = TextButton
+Rounding.Active = true
+Rounding.AnchorPoint = Vector2.new(0.5, 0.5)
+Rounding.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Rounding.BackgroundTransparency = 1.000
+Rounding.Position = UDim2.new(0.5, 0, 0.5, 0)
+Rounding.Selectable = true
+Rounding.Size = UDim2.new(1, 0, 1, 0)
+Rounding.ZIndex = 2
+Rounding.Image = "rbxassetid://3570695787"
+Rounding.ImageColor3 = Color3.fromRGB(24, 24, 24)
+Rounding.ScaleType = Enum.ScaleType.Slice
+Rounding.SliceCenter = Rect.new(100, 100, 100, 100)
+Rounding.SliceScale = 0.040
+
+Outline.Name = "Outline"
+Outline.Parent = TextButton
+Outline.AnchorPoint = Vector2.new(0.5, 0.5)
+Outline.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Outline.BackgroundTransparency = 1.000
+Outline.Position = UDim2.new(0.5, 0, 0.5, 0)
+Outline.Size = UDim2.new(0, 227, 0, 37)
+Outline.Image = "rbxassetid://3570695787"
+Outline.ImageColor3 = Color3.fromRGB(0, 252, 134)
+Outline.ScaleType = Enum.ScaleType.Slice
+Outline.SliceCenter = Rect.new(100, 100, 100, 100)
+Outline.SliceScale = 0.040
+
+Outline2.Name = "Outline2"
+Outline2.Parent = TopFrame
+Outline2.AnchorPoint = Vector2.new(0.5, 0.5)
+Outline2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Outline2.BackgroundTransparency = 1.000
+Outline2.Position = UDim2.new(0.5, 0, 2.46199989, 0)
+Outline2.Size = UDim2.new(0, 272, 0, 130)
+Outline2.ZIndex = 0
+Outline2.Image = "rbxassetid://3570695787"
+Outline2.ImageColor3 = Color3.fromRGB(0, 252, 134)
+Outline2.ScaleType = Enum.ScaleType.Slice
+Outline2.SliceCenter = Rect.new(100, 100, 100, 100)
+Outline2.SliceScale = 0.040
+
+GameText.Name = "GameText"
+GameText.Parent = TopFrame
+GameText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GameText.BackgroundTransparency = 1.000
+GameText.Position = UDim2.new(0.0814814791, 0, 1.57692313, 0)
+GameText.Size = UDim2.new(0, 224, 0, 29)
+GameText.Font = Enum.Font.GothamSemibold
+GameText.TextColor3 = Color3.fromRGB(255, 255, 255)
+GameText.TextSize = 16.000
+GameText.TextWrapped = true
+
+if Game then 
+    GameText.Text = Game.GameName
+else
+    GameText.Text = "Not Supported"
+end
+
+wait(0.5)
+TopFrame:TweenPosition(UDim2.new(0.5,0,0.5,0), Enum.EasingDirection.Out, Enum.EasingStyle.Bounce, 1, false)
