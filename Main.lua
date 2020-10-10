@@ -3,7 +3,6 @@ local Supported = false
 local Script = nil
 
 local GameList = game:HttpGet('https://raw.githubusercontent.com/alfiebgtbhgh/BlazeHub/main/GameList.json')
-
 function GetGame()
     local GameTable = HttpService:JSONDecode(GameList)
     if GameTable[tostring(game.PlaceId)] then 
